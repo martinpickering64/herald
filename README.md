@@ -1,4 +1,4 @@
-[![GNU AGPLv3](https://img.shields.io/badge/license-GNU%20AGPLv3-brightgreen)](https://www.martinpickering.com/posts/saas/herald/)
+[![GNU AGPLv3](https://img.shields.io/badge/license-GNU%20AGPLv3-brightgreen)](./LICENSE)
 
 # herald
 
