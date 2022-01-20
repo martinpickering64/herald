@@ -5,13 +5,19 @@
 
 ## General feedback and discussions?
 
-Start a discussion on the [issue tracker](./issues).
+Start a discussion on the [issue tracker](https://github.com/martinpickering64/herald/issues).
 
 ## Bugs and feature requests?
 
-❗ **IMPORTANT: If you want to report a security-related issue, please see the `Reporting security issues and bugs` section below.**
+❗ **IMPORTANT: If you want to report a security-related issue, 
+please see the `Reporting security issues and bugs` section below.**
 
-Before reporting a new issue, try to find an existing issue if one already exists. If it already exists, upvote (👍) it. Also, consider adding a comment with your unique scenarios and requirements related to that issue.  Upvotes and clear details on the issue's impact help us prioritize the most important issues to be worked on sooner rather than later. If you can't find one, that's okay, we'd rather get a duplicate report than none.
+Before reporting a new issue, try to find an existing issue if one already exists. 
+If it already exists, upvote (👍) it. 
+Also, consider adding a comment with your unique scenarios and requirements related to that issue.  
+Upvotes and clear details on the issue's impact help us prioritize the most important issues to be 
+worked on sooner rather than later. 
+If you can't find one, that's okay, we'd rather get a duplicate report than none.
 
 If you can't find an existing issue, log a new issue.
 
@@ -26,15 +32,26 @@ To help you here a few guidelines to follow when you prepare to contribute:
 
 ### Finding an issue to work on
 
-To try and avoid  targetting a PR on areas that we have no plans for further expandsion a list of issues are highlighted, which may be a good place to contribute to. These issues are marked with the 'help wanted' label. Find this list of issues at [./issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22+-label%3AWorking].
+To try and avoid  targetting a PR on areas that we have no plans for further expandsion a 
+list of issues are highlighted, which may be a good place to contribute to. 
+These issues are marked with the 'help wanted' label. Find this list of issues at 
+[here](https://github.com/martinpickering64/herald/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22+-label%3AWorking).
 
-If you would like to make a contribution to an area not documented here, first open an issue with a description of the change you would like to make and the problem it solves so it can be discussed before a pull request is submitted.
+If you would like to make a contribution to an area not documented here, first open an 
+issue with a description of the change you would like to make and the problem it solves 
+so it can be discussed before a pull request is submitted.
 
 ### Before writing code
 
-  To avoid solving an issue in a way, which either wouldn't fit into hearld because of how it's designed or it would change herald in a way that is not something we'd like to do, we encourage you to discuss the preferred design with us first. To do so, file a new `design proposal` issue, link to the issue you'd like to address, and provide detailed information about how you'd like to solve a specific problem. We triage issues periodically and it will not take long for us to engage with you on that proposal.
-  When you get an agreement from us that the design proposal you have is solid, then go ahead and prepare the PR.
-  To file a design proposal, look for the relevant issue in the `New issue` page or simply click [this link](./issues/new?assignees=&labels=Design%20Proposal&template=design-proposal.md):
+To avoid solving an issue in a way, which either wouldn't fit into hearld because of how 
+it's designed or it would change herald in a way that is not something we'd like to do, 
+we encourage you to discuss the preferred design with us first. 
+To do so, file a new `design proposal` issue, link to the issue you'd like to 
+address, and provide detailed information about how you'd like to solve a specific problem. 
+We triage issues periodically and it will not take long for us to engage with you on that proposal.
+When you get an agreement from us that the design proposal you have is solid, then go ahead and prepare the PR.
+To file a design proposal, look for the relevant issue in the `New issue` page or simply 
+click [this link](https://github.com/martinpickering64/herald/issues/new?assignees=&labels=Design%20Proposal&template=design-proposal.md).
 
 ### Before submitting the pull request
 
@@ -56,17 +73,21 @@ If your pull request contains any of the below, it's less likely to be merged.
 
 ### During pull request review
 
-A core contributor will review your pull request and provide feedback. To ensure that there is not a large backlog of inactive PRs, the pull request will be marked as stale after four weeks of no activity. After another week, it will be closed.
+A core contributor will review your pull request and provide feedback. 
+To ensure that there is not a large backlog of inactive PRs, the pull request will be marked 
+as stale after four weeks of no activity. After another week, it will be closed.
 
 ### Resources to help you get started
 
 Here are some resources to help you get started on how to contribute code or new content.
 
-* ["Help wanted" issues](./labels/help%20wanted) - these issues are up for grabs. Comment on an issue if you want to create a fix.
+* ["Help wanted" issues](https://github.com/martinpickering64/herald/labels/help%20wanted) - these issues are up for grabs. Comment on an issue if you want to create a fix.
 
 ### Submitting a pull request
 
-If you don't know what a pull request is read this article: <https://help.github.com/articles/using-pull-requests>. Make sure the repository can build and all tests pass. Familiarize yourself with the project workflow and our coding conventions. 
+If you don't know what a pull request is read this article: <https://help.github.com/articles/using-pull-requests>. 
+Make sure the repository can build and all tests pass. 
+Familiarize yourself with the project workflow and our coding conventions. 
 
 ### Tests
 
@@ -76,7 +97,10 @@ If you don't know what a pull request is read this article: <https://help.github
 
 ### Feedback
 
-Your pull request will now go through extensive checks. Please be patient. Update your pull request according to feedback until it is approved by us. After that, we may adjust the branch you merge into based on the expected release schedule.
+Your pull request will now go through extensive checks. 
+Please be patient. 
+Update your pull request according to feedback until it is approved by us. 
+After that, we may adjust the branch you merge into based on the expected release schedule.
 
 ## Code of conduct
 
